@@ -1,5 +1,5 @@
 .breadcrumb_bg {
-	@include background("../img/breadcum_bg.png");
+	@include background("../img/breadcum_bg.jpg");
 	@media #{$tab} {
         background-image: url(../img/tab_banner.jpg);
         background-position: left;
